@@ -1,2 +1,2 @@
 #!/bin/bash
-git clone https://github.com/pitohuiv2/pssa.git
+git clone https://github.com/HOMMEAQUA/PSSA.git
